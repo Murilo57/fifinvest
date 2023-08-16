@@ -4,8 +4,14 @@
 
 #buttons {
     text-align: center;
+    margin-top: 5%;
 }
 
 #excel {
     background-color: green;
+}
+
+#result {
+    text-align: center;
+    margin-top: 5%;
 }
